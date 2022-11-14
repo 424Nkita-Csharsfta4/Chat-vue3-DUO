@@ -1,8 +1,6 @@
 # Vue3 Chat 
 
-<a href="chat-vue3-duo.vercel.app">
- <img src="https://static.vecteezy.com/system/resources/previews/000/441/054/original/vector-chat-icon.jpg">
-</a>
+chat-vue3-duo.vercel.app
 
 
 
